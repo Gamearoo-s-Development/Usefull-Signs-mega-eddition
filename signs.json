@@ -4,7 +4,7 @@
     "pack_id": "123db34a-8b9b-4799-b4d8-67f62a23ebe4",
     "types": {
       "usefull_mega_other": "Other Signs",
-      "usefull_mega_parking": "Parking Signs",
+      "usefull_mega'_parking": "Parking Signs",
       "usefull_mega_road": "Road Signs",
       "usefull_mega_construction": "Construction Signs",
       "usefull_mega_warn": "Warning Signs",
@@ -19,44 +19,43 @@
 			"name": "Speed Limit Top Left",
 			"type": "usefull_mega_law",
 			"front": "sptl.png",
-			"back": "exitback.png"
+			"back": "rbtr.png"
         },
         {
 			"id": "12b649b2-7907-4112-8026-eedbca8de9f9",
 			"name": "Speed Limit Top Right",
 			"type": "usefull_mega_law",
 			"front": "sptr.png",
-			"back": "exitback.png"
+			"back": "rbtl.png"
         },
 	{
-			"id": "b7efdc8e-311e-44f2-89ff-5e1c55f0d8f2",
+			"id": "b7efdc8e-311e-44f2-89ff-5e1c55f0d8f2",                            
 			"name": "Speed Limit Bottom Left",
 			"type": "usefull_mega_law",
 			"front": "spbl.png",
-			"back": "exitback.png",
-		        "textlines":
+			"back": "rbbr.png",
+		    "textlines":
             [
                 {
                     "label": "Second line",
-                "x": 13.5,
-                "y": 7.5,
-                "width": 20,
-                "xscale": 19,
-                "yscale": 15,
-                "halign": "center",
-                "valign": "center",
-                "color": 0
+                    "x": 13.5,
+                    "y": 7.5,
+                    "width": 20,
+                    "xscale": 19,
+                    "yscale": 15,
+                    "halign": "center",
+                    "valign": "center",
+                    "color": 0
                 }
             ]
-	},
-	{
-		
-			 "id": "9b07d574-f794-4976-b206-7f8fb332eea0",
-			 "name": "Speed Limit Bottom Right",
-			 "type": "usefull_mega_law",
-			 "front": "spbr.png",
-			 "back": "exitback.png"
-	}
+	   },
+       {
+            "id": "af2fb515-c452-4dde-8e49-d786e47e66f6",
+            "name": "Speed Limit Bottom Right",
+            "type": "usefull_mega_law",
+            "front": "spbr.png",
+            "back": "rbbl.png"
+	   }
     ]
 }
 	
