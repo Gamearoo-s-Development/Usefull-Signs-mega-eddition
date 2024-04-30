@@ -3,8 +3,8 @@
     "author": "Gamearoo",
     "pack_id": "123db34a-8b9b-4799-b4d8-67f62a23ebe4",
     "types": {
-      "usefull_mega_mega_other": "Other Signs",
-      "usefull_mega_mega'_parking": "Parking Signs",
+      "usefull_mega_other": "Other Signs",
+      "usefull_mega'_parking": "Parking Signs",
       "usefull_mega_road": "Road Signs",
       "usefull_mega_construction": "Construction Signs",
       "usefull_mega_warn": "Warning Signs",
